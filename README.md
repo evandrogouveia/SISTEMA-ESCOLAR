@@ -33,5 +33,5 @@ usuario".
     ->Configurar o arquivo .env de acordo com o banco local
     ->Configurar os dados de SMTP do servidor de email no .env para envio de email
     assim como a linha $message->from("vandogouveia67@gmail.com") em LoginController
-    
+    alterando para o mesmo email que foi configurado no .env
     ->Acessar o sistema na url http://localhost/sistema_escolar/public/
