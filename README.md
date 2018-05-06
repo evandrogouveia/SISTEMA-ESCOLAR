@@ -27,7 +27,7 @@ usuario".
     ->É necessário ter o laravel instalado na máquina.
     ->Copiar a pasta VENDOR do laravel que já está instalado na máquina para 
       a pasta do sistema no servidor local.
-    ->importar o arquivo banco_escola.sql que está na pasta do sistema 
+    ->importar o arquivo banco_dump.sql que está na pasta do sistema 
       para o banco de dados local.
     ->Configurar o arquivo .env de acordo com o banco local
     ->Configurar os dados de SMTP no .env para envio de email
