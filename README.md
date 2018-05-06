@@ -12,7 +12,7 @@ poderá editar e excluir os demais usuários.
 - O sitema possui tela de login com as opções de "esqueci a senha" e "novo 
 usuario".
 
----- TECNOLOGIAS E LINGUAGENS UTILIZADAS ----
+## TECNOLOGIAS E LINGUAGENS UTILIZADAS
     ->PHP com Framework Laravel 5.3
     ->CSS3 com Framework Bootstrap 3
     ->Javascript com Framework jQuery
