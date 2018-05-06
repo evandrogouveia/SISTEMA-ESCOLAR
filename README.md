@@ -20,9 +20,8 @@ usuario".
     ->IDE Netbeans
     ->Orientação a Objetos
     ->Padrão MVC
--
--
----- INSTALAÇÃO DO SISTEMA LOCAL ----
+
+## INSTALAÇÃO DO SISTEMA LOCAL 
     ->Fazer download dos arquivos do repositório.
     ->Colocar os arquivos na pasta do servidor local.
     ->É necessário ter o laravel instalado na máquina.
