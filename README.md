@@ -30,4 +30,5 @@ usuario".
     ->importar o arquivo banco_escola.sql que está na pasta do sistema 
       para o banco de dados local.
     ->Configurar o arquivo .env de acordo com o banco local
+    ->Configurar os dados de SMTP no .env para envio de email
     ->Acessar o sistema na url http://localhost/sistema_escolar/public/
