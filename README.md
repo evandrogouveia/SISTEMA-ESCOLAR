@@ -2,18 +2,16 @@
 # SISTEMA CADASTRO
 
 
----- INFORMAÇÕES DO SISTEMA ----
+## INFORMAÇÕES DO SISTEMA 
 
 - O SISTEMA CADASTRO é uma simulação de controle de alunos e cursos. 
 O sistema permite cadastrar, editar e excluir um aluno com opção de inserção 
 de foto no cadastro e opção de cadastro e exclusão de cursos. O administrador
 poderá editar e excluir os demais usuários.
-- 
--
+
 - O sitema possui tela de login com as opções de "esqueci a senha" e "novo 
 usuario".
--
--
+
 ---- TECNOLOGIAS E LINGUAGENS UTILIZADAS ----
     ->PHP com Framework Laravel 5.3
     ->CSS3 com Framework Bootstrap 3
