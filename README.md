@@ -7,7 +7,8 @@
 - O SISTEMA CADASTRO é uma simulação de controle de alunos e cursos. 
 O sistema permite cadastrar, editar e excluir um aluno com opção de inserção 
 de foto no cadastro e opção de cadastro e exclusão de cursos. O administrador
-poderá editar e excluir os demais usuários.
+poderá editar e excluir os demais usuários que se cadastraram no sistema.
+- será exibido a lista dos usuários excluídos.
 
 - O sitema possui tela de login com as opções de "esqueci a senha" e "novo 
 usuario".
@@ -27,8 +28,10 @@ usuario".
     ->É necessário ter o laravel instalado na máquina.
     ->Copiar a pasta VENDOR do laravel que já está instalado na máquina para 
       a pasta do sistema no servidor local.
-    ->importar o arquivo banco_dump.sql que está na pasta do sistema 
+    ->importar o arquivo sistema_escolar.sql que está na pasta do sistema 
       para o banco de dados local.
     ->Configurar o arquivo .env de acordo com o banco local
-    ->Configurar os dados de SMTP no .env para envio de email
+    ->Configurar os dados de SMTP do servidor de email no .env para envio de email
+    assim como a linha $message->from("vandogouveia67@gmail.com") em LoginController
+    
     ->Acessar o sistema na url http://localhost/sistema_escolar/public/
