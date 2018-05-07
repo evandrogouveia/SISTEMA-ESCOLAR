@@ -28,7 +28,7 @@ usuario".
     ->Colocar os arquivos na pasta do servidor local.
     ->É necessário ter o laravel instalado na máquina.
     ->Copiar a pasta VENDOR do laravel que já está instalado na máquina para 
-      a pasta do sistema no servidor local.
+      a pasta do sistema caso baixe direto do repositório.
     ->importar o arquivo sistema_escolar.sql que está na pasta do sistema 
       para o banco de dados local.
     ->Configurar o arquivo .env de acordo com o banco local
